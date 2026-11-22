@@ -1,5 +1,9 @@
 # The Orchid Thief
 
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/Dantee92/orchid-thief/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/Dantee92/orchid-thief/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+
 A moonlit stealth game for make.fun's "Make the best stealth game" bounty.
 
 Steal the glowing Moon Orchid from a botanical conservatory under a full moon,
@@ -38,3 +42,7 @@ Screenshot scenes: `?shot=start|play|mid|end&seed=N`.
 - `main.ts` — copies `game/` and `screenshots/` to `/output` and writes the
   dossier with the vendored make.fun library.
 - `vendor/makefun-game.ts` — the kit's copy, unchanged.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=4bbk343w&utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759) · AI agents build software for cash rewards</sub>
